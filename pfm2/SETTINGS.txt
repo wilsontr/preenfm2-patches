@@ -1,0 +1,76 @@
+# Usb Midi: 
+#   0=Off, In, In/Out
+usbmidi=2
+
+# Midi ch. 1: 
+midi1=8
+
+# Midi ch. 2: 
+midi2=16
+
+# Midi ch. 3: 
+midi3=16
+
+# Midi ch. 4: 
+midi4=16
+
+# Current ch. : 
+midiglobal=0
+
+# Global ch. : 
+midicurrent=0
+
+# Midi thru: 
+#   0=No, Yes
+miditrhu=0
+
+# Receives: 
+#   0=None, CC, NRPN, CC & NRPN
+midireceives=3
+
+# Send: 
+#   0=None, CC, NRPN
+midisend=1
+
+# Program ch: 
+#   0=No, Yes
+programchange=1
+
+# Boot: 
+#   0=Default, Bank, Combo, DX7
+boot=3
+
+# Op Buttons: 
+#   0=New, Old
+opbuttons=0
+
+# Rot. Enc.: 
+#   0=12, 24, 12i, 24i
+encoders=0
+
+# Test Note: 
+testnote=60
+
+# Test Velocity: 
+testvelocity=120
+
+# Clock Led: 
+#   0=No, Yes
+clockled=1
+
+# Arp in Preset: 
+#   0=No, Yes
+arpinpreset=0
+
+# Oled Saver: 
+#   0=Off, 2m, 5m, 10m, 1h
+screensaver=4
+
+# Unlinked edit: 
+#   0=No, Yes
+unlinkededit=0
+
+# Boot sound: 
+#   0=No, Yes
+bootsound=0
+
